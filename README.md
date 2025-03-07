@@ -66,7 +66,7 @@ Değişikliklerinizi ana repoya göndermek için **Pull Request (PR)** açın.
 
 ## 📷 Ekran Görüntüleri  
 
-💡 **(Buraya oyun içi ekran görüntüleri eklenebilir)**  
+💡 Görsel eklemeye üşendim
 
 ---
 
